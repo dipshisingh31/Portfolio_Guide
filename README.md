@@ -4,7 +4,7 @@
 
 # 🗺 Dipshi's Work
 
-A one stop for all my Tableau projects:
+Thank you for stopping by. A one stop for all my Analytics and Data Science projects:
 
 
 # Tableau
