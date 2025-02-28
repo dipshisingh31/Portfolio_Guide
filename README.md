@@ -19,7 +19,9 @@ Thank you for stopping by. A one stop for all my Analytics and Data Science proj
 
 | Project Link | Project Description | Code Link |
 |---|---|---|
-| 🦄 [Titanic Dataset Analysis](https://github.com/dipshisingh31/Titanic_Dataset_Analysis/blob/0362555cb0aaad2faf3d502eb344f4edc8e4db72/README.md) | Taking Titanic passengers dataset and analyzing what influenced the passengers' chances of survival.  | [Click here](https://github.com/dipshisingh31/Titanic_Dataset_Analysis/blob/0362555cb0aaad2faf3d502eb344f4edc8e4db72/TITANIC%20dataset%20analysis.sql) |
+| 🦄 [COVID Deaths Vaccinations SQL Report](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/tree/main/README.md) | Diving into the insights from COVID Death & Vaccination datasets for all continents, countries  | [Click here](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/Covid_Death_VaccinationSQLProject.sql) |
+| 🦠 [Titanic Dataset Analysis](https://github.com/dipshisingh31/Titanic_Dataset_Analysis/blob/0362555cb0aaad2faf3d502eb344f4edc8e4db72/README.md) | Taking Titanic passengers dataset and analyzing what influenced the passengers' chances of survival.  | [Click here](https://github.com/dipshisingh31/Titanic_Dataset_Analysis/blob/0362555cb0aaad2faf3d502eb344f4edc8e4db72/TITANIC%20dataset%20analysis.sql) |
+
 
 
 ***
